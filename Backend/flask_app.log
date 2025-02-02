@@ -1,0 +1,99 @@
+2025-02-02 08:14:20,749 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:14:22,780 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 08:14:22,891 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 08:14:22,892 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 08:14:22,895 - werkzeug - INFO -  * Restarting with stat
+2025-02-02 08:14:24,240 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:14:24,245 - __main__ - ERROR - Port 5001 is already in use. Please free up the port or use a different one.
+2025-02-02 08:14:44,954 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:14:46,978 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 08:14:47,053 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 08:14:47,054 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 08:14:47,058 - werkzeug - INFO -  * Restarting with stat
+2025-02-02 08:14:48,552 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:14:48,554 - __main__ - ERROR - Port 5001 is already in use. Please free up the port or use a different one.
+2025-02-02 08:20:31,346 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:20:31,348 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 08:20:31,411 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 08:20:31,412 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 08:21:21,986 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:21:21,987 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 08:21:22,025 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 08:21:22,026 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 08:21:54,328 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:21:54] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:21:54,575 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:21:54] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:22:12,444 - __main__ - ERROR - Error while calling Gemini API: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-02-02 08:22:12,446 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:22:12] "GET /query?q=event HTTP/1.1" 200 -
+2025-02-02 08:23:53,103 - __main__ - ERROR - Error while calling Gemini API: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-02-02 08:23:53,106 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:23:53] "GET /query?q=event HTTP/1.1" 200 -
+2025-02-02 08:24:05,785 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:24:05,786 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 08:24:05,857 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 08:24:05,857 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 08:24:12,627 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:24:12] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:24:12,883 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:24:12] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:24:25,425 - __main__ - ERROR - Error while calling Gemini API: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-02-02 08:24:25,427 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:24:25] "GET /query?q=event HTTP/1.1" 200 -
+2025-02-02 08:26:09,308 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:26:09] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:26:09,485 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:26:09] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:26:15,919 - __main__ - ERROR - Error while calling Gemini API: 400 API Key not found. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API Key not found. Please pass a valid API key."
+]
+2025-02-02 08:26:15,920 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:26:15] "GET /query?q=event HTTP/1.1" 200 -
+2025-02-02 08:27:52,581 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 08:27:52,583 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 08:27:52,645 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 08:27:52,646 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 08:28:11,477 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:11] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:28:11,743 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:11] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:28:11,803 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:11] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 08:28:24,688 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:24] "GET /query?q=event HTTP/1.1" 200 -
+2025-02-02 08:28:52,393 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:52] "GET /query?q=upcoming%20events HTTP/1.1" 200 -

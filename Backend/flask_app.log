@@ -97,3 +97,28 @@ message: "API Key not found. Please pass a valid API key."
 2025-02-02 08:28:11,803 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:11] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
 2025-02-02 08:28:24,688 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:24] "GET /query?q=event HTTP/1.1" 200 -
 2025-02-02 08:28:52,393 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 08:28:52] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:04:09,634 - __main__ - INFO - Successfully configured Gemini API
+2025-02-02 10:04:09,639 - __main__ - INFO - Starting Flask server on http://localhost:5001
+2025-02-02 10:04:09,734 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.18.148.148:5001
+2025-02-02 10:04:09,735 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-02 10:07:19,936 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:07:19] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:07:20,177 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:07:20] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:08:01,556 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:01] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:08:03,359 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:03] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:08:06,333 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:06] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:08:08,569 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:08] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:08:10,224 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:10] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:08:11,988 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:11] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:08:23,662 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:08:23] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:09:02,550 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:09:02] "GET /query?q=events HTTP/1.1" 200 -
+2025-02-02 10:09:24,682 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:09:24] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:10:06,140 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:10:06] "GET /query?q=current%20events HTTP/1.1" 200 -
+2025-02-02 10:10:35,426 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:10:35] "GET /query?q=open%20volunteering%20calls%20happening%20in%20college HTTP/1.1" 200 -
+2025-02-02 10:13:00,653 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:13:00] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:13:00,911 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:13:00] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:13:02,559 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:13:02] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:13:02,876 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:13:02] "GET /query?q=upcoming%20events HTTP/1.1" 200 -
+2025-02-02 10:13:07,667 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2025 10:13:07] "GET /query?q=Can%20I%20get%20the%20registration%20link%20for%20the%20upcoming%20events? HTTP/1.1" 200 -

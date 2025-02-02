@@ -85,3 +85,6 @@ https://github.com/user-attachments/assets/44bac0dc-35b1-4076-b2c2-9e032afa19b6
 - Frontend-Backend Communication: Axios is used for API requests between React and Flask  
 - Dummy College Website: A React-based website was created to demonstrate the chatbot’s capabilities in a real-world college portal environment
 
+## Group Photo
+![backspace](https://github.com/user-attachments/assets/af3d34f2-905c-407e-a803-a4b8fc209f52)
+

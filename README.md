@@ -8,7 +8,7 @@ Team Members:
 - Member 2: Maria Roselind - Mar Athanasius College of Engineering, Kothamangalam  
 - Member 3: Gopika M - Mar Athanasius College of Engineering, Kothamangalam  
   
-Hosted Project Link: [Add your hosted project link here]  
+Hosted Project Link: https://github.com/merin1708/melo-chatbotv2  
 
 ---
 ## Project Description  

@@ -1,4 +1,4 @@
-# Melo Chatbot 🎯
+# Melo Chatbot 
 
 ## Basic Details  
 Team Name: Backspace
@@ -60,18 +60,14 @@ npm start
 ![Registration Info](#) Melo providing registration details  
 ![College Website](#) Dummy college website with integrated chatbot  
 
-### Diagrams  
-![Workflow](#) Architecture of the chatbot system  
 
----
 ## Project Demo  
 ### Video  
-[Add demo video link] Shows chatbot in action, answering queries and guiding users  
+ Shows chatbot in action, answering queries and guiding users  
 
-### Additional Demos  
-[Add extra demo links if available]  
+https://github.com/user-attachments/assets/44bac0dc-35b1-4076-b2c2-9e032afa19b6
 
----
+
 ## Team Contributions  
 - Gopika M: Backend development, Google Cloud setup  
 - Merin Babu: Frontend design, Flask API integration, Dummy college website development  

@@ -55,10 +55,11 @@ npm start
 ---
 ## Project Documentation  
 ### Screenshots  
-![Chatbot Interface](#) Melo chatbot responding to a query  
-![Event Updates](#) Melo displaying upcoming events  
-![Registration Info](#) Melo providing registration details  
-![College Website](#) Dummy college website with integrated chatbot  
+![Chatbot Interface](#) Melo chatbot responding to a query![ss2](https://github.com/user-attachments/assets/bdf56270-615b-4548-bfd6-663d161d674d)  
+![Event Updates](#) Melo displaying upcoming events![ss3](https://github.com/user-attachments/assets/1b3d0e0d-6bae-4790-9ffc-adcf6f8625e9)
+
+![College Website](#) Dummy college website with integrated chatbot    
+![SS4](https://github.com/user-attachments/assets/5827dfe5-55de-4209-a45e-abff91854965)
 
 
 ## Project Demo  
